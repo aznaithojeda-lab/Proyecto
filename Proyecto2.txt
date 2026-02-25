@@ -1,1 +1,2 @@
-Hola me llamo Aznaith Ojeda, Bienos dias
+Hola me llamo Aznaith Ojeda, Buenos dias
+Estamos aprendiendo a utilizar GIT
