@@ -1,3 +1,4 @@
 Hola soy Aznaith Ojeda, estamos aprendiendo a utilizar GIT
 Soy estudiante SENA 
 Hoy estamos aprendiendo
+debemos saber GIT
